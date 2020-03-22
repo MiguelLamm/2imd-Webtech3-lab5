@@ -1,0 +1,8 @@
+{
+    "Database":{
+        "conn": "mongodb+srv://message-nodejs-ramm:8sVYWEVx9llIRDwY@cluster0-ulnmz.mongodb.net/test?retryWrites=true&w=majority"
+    },
+    "jwt":{
+        "secret": "mysecret"
+    }
+}
